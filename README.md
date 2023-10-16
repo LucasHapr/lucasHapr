@@ -17,4 +17,4 @@ Sou estudante de Engenharia de Software, com ensino médio integrado ao técnico
 apaixonado por programação, gosto bastante de estudar e desenvolver projetos.
 
 <!--![snake gif]
-(https://github.com/LucasHapr/blank.yml/blob/output/github-contribution-grid-snake.svg)-->
+(https://github.com/LucasHapr/LucasHapr/blob/output/github-contribution-grid-snake.svg)-->
