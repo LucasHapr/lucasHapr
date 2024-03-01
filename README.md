@@ -28,3 +28,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 40px"/>
 </div>
 <br>
+
+![Snake animation](https://github.com/LucasHapr/LucasHapr/blob/output/github-contribution-grid-snake.gif)
