@@ -1,4 +1,5 @@
 ### Olá eu sou o Lucas Rodrigues 👋🏻
+<p id="typing-text"></p>
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-lucashapr.vercel.app) <!--[![Linkedin]
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-b72567259/)-->
@@ -27,3 +28,45 @@
 <br>
 Sou estudante de Engenharia de Software, com ensino médio integrado ao técnico de Desenvolvimento de Sistemas, 
 com grande interesse por programação, gosto bastante de estudar e desenvolver projetos.
+
+
+<script>
+  const text = "Hello World, i am Lucas";
+  const typingSpeed = 100;
+
+  function typeWriter(text, i) {
+    if (i < text.length) {
+      document.getElementById("typing-text").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(function() {
+        typeWriter(text, i);
+      }, typingSpeed);
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", function() {
+    typeWriter(text, 0);
+  });
+</script>
+
+<style>
+  #typing-text {
+    color: #333;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    border-right: 2px solid #333;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 11em;
+    animation: typing 4s steps(44, end), blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes blink-caret {
+    from, to {
+      border-color: transparent;
+    }
+    50% {
+      border-color: #333;
+    }
+  }
+</style>
