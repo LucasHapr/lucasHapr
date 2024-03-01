@@ -1,4 +1,5 @@
-### Hello World, i'm Lucas 👋🏻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&v&width=1000&lines=Hello+World!;+:%29)](https://git.io/typing-svg)
+###  I'm Lucas 👋🏻
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-lucashapr.vercel.app) <!--[![Linkedin]
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-b72567259/)-->
