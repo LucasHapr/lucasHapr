@@ -1,7 +1,7 @@
 ###  Hi, i'm Lucas Rodrigues👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&v&width=1000&lines=Hello+World!;+:%29)](https://git.io/typing-svg)
 
--  Frontend Developer
+-  <strong>Frontend Developer</strong>
 -  Contact me at email: lucashenriquerodrigues055@gmail.com
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-lucashapr.vercel.app) <!--[![Linkedin]
