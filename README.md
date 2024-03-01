@@ -5,8 +5,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="(https://www.linkedin.com/in/lucas-henrique-b72567259/" style="width: 30px"/>
 
 <div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasHapr&show_icons=true&theme=tokyonight" alt="Lucas GitHub stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHapr&size_weight=0.3&count_weight=0.3&theme=tokyonight" alt="Top Langs" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasHapr&show_icons=true&theme=tokyonight" alt="Lucas GitHub stats" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHapr&size_weight=0.3&count_weight=0.3&theme=tokyonight" alt="Top Langs" height="250">
   
 </div>
 
