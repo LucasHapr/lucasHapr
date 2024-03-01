@@ -1,7 +1,7 @@
 ###  Hi, i'm Lucas Rodrigues👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&v&width=1000&lines=Hello+World!;+:%29)](https://git.io/typing-svg)
 
-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg> Frontend Developer
+-  Frontend Developer
 -  Contact me at email: lucashenriquerodrigues055@gmail.com
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-lucashapr.vercel.app) <!--[![Linkedin]
@@ -11,9 +11,7 @@
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasHapr&show_icons=true&theme=tokyonight" alt="Lucas GitHub stats" height="220">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHapr&size_weight=0.3&count_weight=0.3&theme=tokyonight" alt="Top Langs" height="220">
-  
 </div>
-
 
 ## Tecnologias que eu utilizo
 
@@ -29,6 +27,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 40px"/>
 </div>
 <br>
-Sou estudante de Engenharia de Software, com ensino médio integrado ao técnico de Desenvolvimento de Sistemas, 
-com grande interesse por programação, gosto bastante de estudar e desenvolver projetos.
-
