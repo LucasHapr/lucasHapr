@@ -4,10 +4,8 @@
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-b72567259/)-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="(https://www.linkedin.com/in/lucas-henrique-b72567259/" style="width: 30px"/>
 
-<div style="display: flex">
-  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHapr&show_icons=true&theme=tokyonight) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHapr&size_weight=0.5&count_weight=0.5)
-</div>
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHapr&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHapr&size_weight=0.5&count_weight=0.5)
 ## Tecnologias que eu utilizo
 
 <div style="display: inline block">
