@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHapr&size_weight=0.3&count_weight=0.3&theme=tokyonight" alt="Top Langs" height="220">
 </div>
 
-## Tecnologias que eu utilizo
+## Technologies that I use
 
 <div style="display: inline block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 40px"/>
