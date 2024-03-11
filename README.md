@@ -7,7 +7,9 @@
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-lucashapr.vercel.app) <!--[![Linkedin]
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-b72567259/)-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="(https://www.linkedin.com/in/lucas-henrique-b72567259/)" style="width: 30px"/>
+<a href="https://www.linkedin.com/in/lucas-henrique-b72567259/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="(https://www.linkedin.com/in/lucas-henrique-b72567259/)" style="width: 30px"/>
+</a>
 
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasHapr&show_icons=true&theme=tokyonight" alt="Lucas GitHub stats" height="220">
