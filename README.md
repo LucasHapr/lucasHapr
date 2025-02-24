@@ -3,7 +3,7 @@
 
 -  📱 <strong>Frontend Developer</strong>
 -  💻 <strong>Studying software engineering</strong>
--  📫 <strong>Contact me at email: lucashenriquerodrigues055@gmail.com</strong>
+-  📫 <strong>Contact me at: ** `lucashenriquerodrigues055@gmail.com`  
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-lucashaprs-projects.vercel.app) <!--[![Linkedin]
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-b72567259/)-->
@@ -11,12 +11,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="(https://www.linkedin.com/in/lucas-rodrigues-b72567259/)" style="width: 30px"/>
 </a>
 
+### 📊 GitHub Stats  
+
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasHapr&show_icons=true&theme=tokyonight" alt="Lucas GitHub stats" height="220">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHapr&size_weight=0.3&count_weight=0.3&theme=tokyonight" alt="Top Langs" height="220">
 </div>
 
-## Technologies that I use
+### 🚀 Technologies that I use  
 
 <div style="display: inline block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 45px"/>
@@ -36,4 +38,5 @@
 </div>
 <br>
 
+### 🏆 Contribution Snake  
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
