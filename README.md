@@ -3,7 +3,7 @@
 
 -  📱 <strong>Frontend Developer</strong>
 -  💻 <strong>Studying software engineering</strong>
--  📫 <strong>Contact me at: ** `lucashenriquerodrigues055@gmail.com`  
+-  📫 <strong>Contact me at: `lucashenriquerodrigues055@gmail.com`  
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-lucashaprs-projects.vercel.app) <!--[![Linkedin]
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-b72567259/)-->
@@ -38,5 +38,4 @@
 </div>
 <br>
 
-### 🏆 Contribution Snake  
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
