@@ -4,7 +4,7 @@
 -  📱 <strong>Frontend Developer</strong>
 -  💻 <strong>Studying software engineering</strong>
 -  📫 <strong>Contact me at: `lucashenriquerodrigues055@gmail.com`</strong>
--  🌐 <strong>Visit my website: https://lucasrodrigues.app.br/</strong>
+-  🌐 <strong>Visit my portfolio: https://lucasrodrigues.app.br/</strong>
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasrodrigues.app.br/) <!--[![Linkedin]
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-b72567259/)-->
