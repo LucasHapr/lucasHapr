@@ -1,7 +1,7 @@
 ##  Hi, i'm Lucas Rodrigues👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&v&width=1000&lines=Hello+World!;+:%29)](https://git.io/typing-svg)
 
--  📱 <strong>Full Stack Developer</strong>
+-  📱 <strong>FullStack Developer</strong>
 -  💻 <strong>Studying software engineering</strong>
 -  📫 <strong>Contact me at: `lucashenriquerodrigues055@gmail.com`</strong>
 -  🌐 <strong>Visit my portfolio: https://lucasrodrigues.app.br/</strong>
