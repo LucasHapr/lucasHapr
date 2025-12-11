@@ -37,11 +37,12 @@
 </div>
 <br>
 
+<!--
 ## 📊 GitHub Stats  
 
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasHapr&show_icons=true&theme=tokyonight" alt="Lucas GitHub stats" height="220">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHapr&size_weight=0.3&count_weight=0.3&theme=tokyonight" alt="Top Langs" height="220">
-</div>
+</div> --!>
 
 <!-- ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) -->
